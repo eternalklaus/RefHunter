@@ -1,5 +1,7 @@
 # IDARefHunter
-This page is made for IDA plugin contest 2021 by *Jiwon Choi*  
+*Updated*: This project's been introduced on [IDA Plugin Contest 2021](https://hex-rays.com/contests_details/contest2021/#RefHunter)!
+
+<br>
 <img src="image/RefHunter.gif">
 
 <br>
