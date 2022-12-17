@@ -1,10 +1,15 @@
 # IDARefHunter
-*Updated*: This project's been introduced on [IDA Plugin Contest 2021](https://hex-rays.com/contests_details/contest2021/#RefHunter)!
 
-<br>
+## Official Link
+- Find this project at [IDA Plugin Contest 2021](https://hex-rays.com/contests_details/contest2021/#RefHunter).  
+- Find this project at [Hex-ray plugin repository](https://plugins.hex-rays.com/refhunter).
+ <br>
+
+-----
+
+## Queck-view
 <img src="image/RefHunter.gif">
 
-<br>
 <br>
 
 -----
