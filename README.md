@@ -1,8 +1,7 @@
 # IDARefHunter
 
 ## Official Link
-- Find this project at [IDA Plugin Contest 2021](https://hex-rays.com/contests_details/contest2021/#RefHunter).  
-- Find this project at [Hex-ray plugin repository](https://plugins.hex-rays.com/refhunter).
+- Find this project at [Hex-ray plugin repository]([https://plugins.hex-rays.com/refhunter](https://plugins.hex-rays.com/eternalklaus/refhunter)).
  <br>
 
 -----
