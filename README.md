@@ -1,7 +1,7 @@
 # IDARefHunter
 
 ## Official Link
-- Find this project at [Hex-ray plugin repository]([https://plugins.hex-rays.com/refhunter](https://plugins.hex-rays.com/eternalklaus/refhunter)).
+- Find this project at [Hex-ray plugin repository](https://plugins.hex-rays.com/eternalklaus/refhunter).
  <br>
 
 -----
